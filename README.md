@@ -17,7 +17,7 @@ and now create a file but now in the 'data' folder named as "config.env" with va
 - SECRET_KEY=kaldfadladfkldad 
 
 and finally run the command 
-### npm run dev
+* npm run dev
 
 
 Now,
